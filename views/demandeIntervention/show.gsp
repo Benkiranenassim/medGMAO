@@ -135,13 +135,44 @@
 			<td>
 				<div class="sousform">
 					<ul  style="margin-left:18px">
-						<li><g:link action="infoFournisseur" params="[id:demandeInterventionInstance.id]" target="_blank">Contacter le fournisseur</g:link></li>
+						<div id='basic-modal'>
+						<a href='#' class='basic'>Contacter le fournisseur</a>
+						</div>
 					</ul>
 				</div>
 			</td>
 			</tr>
 			</table>
-			
+
+			<div id="basic-modal-content" action="infoFournisseur" params="[id:demandeInterventionInstance.id]">
+			<g:form method="post" >
+				<g:hiddenField name="id" value="${demandeInterventionInstance?.id}" />
+				<g:hiddenField name="version" value="${demandeInterventionInstance?.version}" />
+
+
+				<div class="fieldcontain ${hasErrors(bean: demandeInterventionInstance, field: 'dateDappelle', 'error')} required">
+					<label for="dateDappelle">
+					<g:message code="demandeIntervention.dateDappelle.label" default="Date De l'appel" />
+					<span class="required-indicator">*</span>
+					</label>
+				<g:datePicker name="dateDappelle" precision="minute"  value="${demandeInterventionInstance?.dateDappelle}"  />
+				</div>
+
+				<div class="fieldcontain ${hasErrors(bean: demandeInterventionInstance, field: 'fournisseurAppele', 'error')} ">
+					<label for="fournisseurAppele">
+					<g:message code="demandeIntervention.fournisseurAppele.label" default="Nom du fournisseur appele" />
+					</label>
+					<g:field name="fournisseurAppele" type="text" value="${demandeInterventionInstance.fournisseurAppele}" />
+				</div>
+
+				<fieldset class="buttons">
+					<g:actionSubmit class="save" action="update" value="${message(code: 'default.button.update.label', default: 'Update')}" />
+				</fieldset>
+			</g:form>
+		</div>
+			<div style='display:none'>
+			<img src="${resource(dir: 'images', file: 'x.png')}" alt='' />
+		</div>
 			<g:form>
 				<fieldset class="buttons">
 					<g:hiddenField name="id" value="${demandeInterventionInstance?.id}" />
@@ -150,5 +181,6 @@
 				</fieldset>
 			</g:form>
 		</div>
+
 	</body>
 </html>

@@ -25,7 +25,9 @@
 		
 		<g:layoutHead/>
 		
-		
+		<script type="text/javascript" src="/medgmao/js/basic.js"></script>
+		<script type="text/javascript" src="/medgmao/js/jquery.simplemodal.js"></script>
+		<script type="text/javascript" src="/medgmao/js/jquery.js"></script>
 		<script type="text/javascript" src="/medgmao/js/interface.js"></script>
 		<script type='text/javascript' src='/medgmao/js/jquery.simplemodal.js'></script>
 		<script type='text/javascript' src='/medgmao/js/jquery-ui-1.10.4.custom.js'></script>

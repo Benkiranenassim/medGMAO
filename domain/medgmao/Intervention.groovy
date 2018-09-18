@@ -29,6 +29,7 @@ class Intervention {
 		id generator: "increment"
 		sort dateIntervention: "desc"
 		version false
+		table 'intervention_maintenance'
 	}
 
 	static constraints = {

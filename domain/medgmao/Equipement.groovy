@@ -93,13 +93,13 @@ class Equipement {
 		
 			if(intervention){
 				use(TimeCategory) {
-					prochaineIntervention=intervention.listOrderDateIntervention(max: 1, order: "desc")+unInterval.days
+					prochaineIntervention = intervention.listOrderDateIntervention(max: 1, order: "desc")+unInterval.days
 				}
 			}
 		
 			else{
 				use(TimeCategory) {
-					prochaineIntervention=getDateMiseEnService()+unInterval.days
+					prochaineIntervention = getDateMiseEnService()+unInterval.days
 				}
 
 			}
