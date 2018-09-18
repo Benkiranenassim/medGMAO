@@ -1,0 +1,13 @@
+Local;SousFamille;Code-equipement;Code-fils;PDR;designation;caractéristiques;Fournisseur;Fabriquant;Installateur;Marque;plans associés;Manuel;fiche maintenance;chargement
+U002;3FPR01;3FPR01-01;3FPR01-01-00;;CHILLER 1;;;;;;;;;1
+U002;3FPR01;3FPR01-02;3FPR01-02-00;;CHILLER 2;;;;;;;;;1
+U002;3FPR01;3FPR01-03;3FPR01-03-00;;CHILLER 3;;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-01;;Bouteille de mélange 1;Diam=1300, Vidange DN50, Purge DN20;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-02;;Bouteille de mélange 2;Diam=1300, Vidange DN50, Purge DN20;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-03;;Pompe normale 1;Débit=161m3/h;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-04;;Pompe normale 2;Débit=161m3/h;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-05;;Pompe secondaire 1;;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-06;;Pompe de secours 1;Débit=161m3/h;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-07;;Doseur chimique 1;;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-08;;Vase d'expansion 1;;;;;;;;;1
+U007;3FPR02;3FPR02-00;3FPR02-00-09;;Pompe doseur;;;;;;;;;1

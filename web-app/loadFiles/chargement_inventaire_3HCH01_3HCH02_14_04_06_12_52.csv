@@ -1,0 +1,10 @@
+Local;SousFamille;Code-equipement;Code-fils;PDR;designation;caractéristiques;Fournisseur;Fabriquant;Installateur;Marque;plans associés;Manuel;fiche maintenance;chargement
+U007;3HCH01;3HCH01-01;3HCH01-01-00;;BOILER 1;;;;;;;;;1
+U007;3HCH01;3HCH01-02;3HCH01-02-00;;BOILER 2;;;;;;;;;1
+U007;3HCH01;3HCH01-03;3HCH01-03-00;;BOILER 3;;;;;;;;;1
+U007;3HCH02;3HCH02-00;3HCH02-00-01;;Bouteille de mélange 3;Diam=400, Vidange DN25, Purge DN15;;;;;;;;1
+U007;3HCH02;3HCH02-00;3HCH02-00-02;;Vase d'expansion 2;;;;;;;;;1
+U007;3HCH02;3HCH02-00;3HCH02-00-03;;Doseur chimique 2;;;;;;;;;1
+U007;3HCH02;3HCH02-00;3HCH02-00-04;;Pompe normale 3;Débit=20,4m3/h;;;;;;;;1
+U007;3HCH02;3HCH02-00;3HCH02-00-05;;Pompe secondaire 2;Débit=20,4m3/h;;;;;;;;1
+U007;3HCH02;3HCH02-00;3HCH02-00-06;;Pompe de secours 2;Débit=20,4m3/h;;;;;;;;1

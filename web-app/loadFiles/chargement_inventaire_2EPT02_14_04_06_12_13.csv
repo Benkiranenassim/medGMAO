@@ -1,0 +1,33 @@
+Local;SousFamille;Code-equipement;Code-fils;PDR;designation;caractéristiques;Fournisseur;Fabriquant;Installateur;Marque;plans associés;Manuel;fiche maintenance;chargement
+B087;2EPT02;2EPT02-01;;;Cellule arrivee N/S depuis poste de livraison;Tableau type compact fluofix (RMU) 630A 24 KV etanche avec isolement dans le SF6 (2IS/IM);;;;;;;;1
+B087;2EPT02;2EPT02-02;;;Cellule arrivee N/S depuis postes transfo du local B088;Tableau type compact fluofix 9RMU0 630A 24 KV etanche avec isolement dans le SF6 (2IS/IM);;;;;;;;1
+B087;2EPT02;2EPT02-03;;;Cellule protection du transformateur TX 1A;Protection par disjoncteur type compact fluofix (RMU) 24KV 400A surisole a 24KV;;;;;;;;1
+B087;2EPT02;2EPT02-04;;;Poste TX 1A;1000 KVA , 20 KV/B2(+/- 5%) , a huile dielectrique;;;;;;;;1
+B087;2EPT02;2EPT02-05;;;Condensateur du transformateur TX 1A;60 KVAR;;;;;;;;1
+B087;2EPT02;2EPT02-06;;;Cellule protection du transformateur TX 2A;Protection par disjoncteur type compact fluofix (RMU) 24KV 400A surisole a 24KV;;;;;;;;1
+B087;2EPT02;2EPT02-07;;;Poste TX 2A;1000 KVA , 20 KV/B2(+/- 5%) , a huile dielectrique;;;;;;;;1
+B087;2EPT02;2EPT02-08;;;Condensateur du transformateur TX 2A;60 KVAR;;;;;;;;1
+B087;2EPT02;2EPT02-09;;;Cellule protection du transformateur TX 3A;Protection par disjoncteur type compact fluofix (RMU) 24KV 400A surisole a 24KV;;;;;;;;1
+B087;2EPT02;2EPT02-10;;;Poste TX 3A;1000 KVA , 20 KV/B2(+/- 5%) , a huile dielectrique;;;;;;;;1
+B087;2EPT02;2EPT02-11;;;Condensateur du transformateur TX 3A;60 KVAR;;;;;;;;1
+B087;2EPT02;2EPT02-12;;;Cellule protection du transformateur TX 4A;Protection par disjoncteur type compact fluofix (RMU) 24KV 400A surisole a 24KV;;;;;;;;1
+B087;2EPT02;2EPT02-13;;;Poste TX 4A;1000 KVA , 20 KV/B2(+/- 5%) , a huile dielectrique;;;;;;;;1
+B087;2EPT02;2EPT02-14;;;Condensateur du transformateur TX 4A;60 KVAR;;;;;;;;1
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
